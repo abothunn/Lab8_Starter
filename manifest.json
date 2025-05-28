@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8-Starter",
+    "short_name": "Ashton",
+    "description": "Progressive Web App for Recipes",
+    "start_url": "./index.html",
+    "display": "minimal-ui",
+    "background_color": "white",
+    "theme_color": "red",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
